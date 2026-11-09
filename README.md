@@ -1,32 +1,41 @@
-<h1 align="center">Hi 👋, I'm Christian Dominguez</h1>
-<h3 align="center">A computational chemist and software developer</h3>
+<h1 align="center">Hi 👋, I'm Christian Domínguez</h1>
+<h3 align="center">Computational chemist turned founder. I build the software that runs science on HPC.</h3>
 
-- 🏢 I’m currently working on the **Barcelona Supercomputing Center**
-
-- 🌱 I’m currently developing **a multiplatform workflow manager**
-
-- 💬 Ask me about **JavaScript/TypeScript, CSS, HTML, Python, C**
-
-- 📫 How to reach me **christian.99dominguez@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chrisdomdal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrisdomdal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15479705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15479705" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://templecompute.com"><img src="https://img.shields.io/badge/Temple%20Compute-founder-111?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/chrisdomdal"><img src="https://img.shields.io/badge/LinkedIn-chrisdomdal-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:christian.99dominguez@gmail.com"><img src="https://img.shields.io/badge/email-christian.99dominguez-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍-Barcelona-555?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+- 🏛️ Founder of **[Temple Compute](https://templecompute.com)**: workflows that route each stage to the right cluster, from a laptop to a supercomputer
+- 🧪 Background in computational chemistry: docking, molecular dynamics, metal-binding prediction (ex-Barcelona Supercomputing Center)
+- 🛠️ Day to day: Python, TypeScript/React, FastAPI, Swift, a lot of Slurm
+- 🤖 Shipping Claude Code plugins for scientists on the side
+
+## 🚀 What I'm building
+
+| Project | What it is |
+| --- | --- |
+| [**horus-runtime**](https://github.com/temple-compute/horus-runtime) | Workflow engine for HPC: modular blocks, remote targets, reproducible runs |
+| [**pantheon**](https://github.com/temple-compute/pantheon) | Production workflows for horus-runtime: Boltz-2 screening, Vina docking, GROMACS/AMBER setup |
+| [**chemkit-lite**](https://github.com/chdominguez/chemkit-lite) | Compound triage for Claude Code: SMILES standardization, Lipinski/QED, PAINS alerts |
+| [**open-in-office-web**](https://github.com/chdominguez/open-in-office-web) | Native macOS app that opens Office files in Microsoft 365 for the web. Tiny, no Electron |
+| [**smalltools**](https://github.com/chdominguez/smalltools) | Small tools for scientists and solo operators |
+
+## 🔬 Science
+- [**BioMetAll v2**](https://github.com/chdominguez/biometallv2): predicting metal-binding sites in proteins
+- [**peleffy**](https://github.com/chdominguez/peleffy): PELE force field templates
+- [**engin-suite**](https://github.com/chdominguez/engin-suite): strain-to-scale toolkit for fermentation biomanufacturing
+- Horus plugins: [PandaDock](https://github.com/chdominguez/pandadock_horus), [Easy-MD](https://github.com/chdominguez/easymd-horus), [GetContacts](https://github.com/chdominguez/horus-getcontacts), [Modeller](https://github.com/chdominguez/horus_modeller)
+
+## 🧰 Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,react,fastapi,swift,c,postgres,redis,docker,linux,bash,git&perline=12" />
+</p>
+
+## 📊 Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chdominguez&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdominguez&layout=compact&hide_border=true&theme=transparent" />
 </p>

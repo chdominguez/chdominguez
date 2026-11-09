@@ -33,9 +33,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,react,fastapi,swift,c,postgres,redis,docker,linux,bash,git&perline=12" />
 </p>
-
-## 📊 Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chdominguez&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdominguez&layout=compact&hide_border=true&theme=transparent" />
-</p>
